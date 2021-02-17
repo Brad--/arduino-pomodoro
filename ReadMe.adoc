@@ -1,21 +1,12 @@
 :Author: brad--
-:Email: {AuthorEmail}
-:Date: 17/02/2021
-:Revision: version#
+:Revision: 1.0.0#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Pomodoro
 
-Describe your project
+A sketch for the Arduino Uno, running a pomodoro clock using a buzzer and 2 LEDs to indicate Work / Break mode.
 
 == Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
 
 == Step 2: Assemble the circuit
 
@@ -39,7 +30,7 @@ Upload the code contained in this sketch on to your board
 This project is released under a {License} License.
 
 === Contributing
-To contribute to this project please contact brad-- https://id.arduino.cc/brad--
+To contribute to this project please contact brad--
 
 === BOM
 Add the bill of the materials you need for this project.
